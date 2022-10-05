@@ -16,6 +16,11 @@ Feature selection is a machine learning process where redundant and irrelevant f
 In this project you are tasked with creating a genetic algorithm for finding the best features for a given dataset. The features will be passed to a simple machine learning algorithm which returns the accuracy. This accuracy can be used as a fitness score for the implementation of the genetic algorithm for this problem. The objective is to maximize the accuracy. <br />
 <br />
 
+# Striction
+1. You are not allowed to use any library other than NumPy, Pandas and Scikit-learn.
+2. You cannot drop any column manually in preprocessing.
+3. No Deep learning algorithm.
+
 # Languages
 
 1. Python <br />
